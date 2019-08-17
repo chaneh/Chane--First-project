@@ -1,0 +1,22 @@
+.heading{
+    color:blue;
+    font-size: 20px; 
+    text-align: center;
+       }
+.subheading{
+    font-style: italic; 
+    padding-left: 12px;
+    color: tomato;
+    font-display: bold;
+    }
+.sub-subheading{
+    font-size: 18px;
+    }
+.title{
+    font-size: 40px
+}
+.background{
+    background-size: cover;
+    background-image: url("camera.jpg");
+    height: 700px
+}
